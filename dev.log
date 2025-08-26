@@ -1,0 +1,713 @@
+   ▲ Next.js 15.5.0 (Turbopack)
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.0.138:3000
+
+ ✓ Starting...
+ ✓ Ready in 789ms
+ ○ Compiling / ...
+ ✓ Compiled / in 2.1s
+ GET / 200 in 2389ms
+ ✓ Compiled /favicon.ico in 142ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 403ms
+ ✓ Compiled /logo-design in 232ms
+ GET /logo-design 200 in 274ms
+ ✓ Compiled /ui-ux-design in 346ms
+ GET /ui-ux-design 200 in 386ms
+ GET /ui-ux-design 200 in 68ms
+ GET / 200 in 66ms
+ ✓ Compiled /digital-design in 226ms
+ GET /digital-design 200 in 265ms
+ GET /ui-ux-design 200 in 61ms
+ ✓ Compiled /infographic-design in 212ms
+ GET /infographic-design 200 in 247ms
+ GET /digital-design 200 in 44ms
+ ✓ Compiled /pos-design in 206ms
+ GET /pos-design 200 in 257ms
+ ✓ Compiled /layout-design in 189ms
+ GET /layout-design 200 in 223ms
+ GET /logo-design 200 in 44ms
+ ✓ Compiled /illustration in 222ms
+ GET /illustration 200 in 259ms
+ GET /digital-design 200 in 51ms
+ ✓ Compiled in 27ms
+ ✓ Compiled /digital-design in 25ms
+ GET /digital-design 200 in 245ms
+ ✓ Compiled /_not-found/page in 219ms
+ GET /sample-motion.gif 404 in 292ms
+ GET /sample-motion.mp4 404 in 322ms
+ ✓ Compiled in 33ms
+ GET / 200 in 93ms
+ ✓ Compiled in 38ms
+ GET / 200 in 92ms
+ GET / 200 in 49ms
+ GET /ui-ux-design 200 in 51ms
+ GET /infographic-design 200 in 50ms
+ GET /ui-ux-design 200 in 46ms
+ GET /digital-design 200 in 57ms
+ GET /sample-motion.mp4 404 in 197ms
+ GET /sample-motion.gif 404 in 225ms
+ GET /pos-design 200 in 54ms
+ GET /layout-design 200 in 47ms
+ GET /logo-design 200 in 52ms
+ GET /illustration 200 in 47ms
+ ✓ Compiled /motion-graphic in 174ms
+ GET /motion-graphic 200 in 212ms
+ GET /sample-motion.gif 404 in 60ms
+ GET /sample-motion.mp4 404 in 100ms
+ GET /pos-design 200 in 45ms
+ GET /digital-design 200 in 42ms
+ GET /sample-motion.mp4 404 in 95ms
+ GET /sample-motion.gif 404 in 123ms
+ ✓ Compiled in 49ms
+ ✓ Compiled /digital-design in 85ms
+ GET /digital-design 200 in 172ms
+ GET /motion-graphic 200 in 43ms
+ GET /sample-motion.mp4 404 in 108ms
+ GET /sample-motion.gif 404 in 112ms
+ GET /illustration 200 in 49ms
+ GET /motion-graphic 200 in 48ms
+ GET /sample-motion.mp4 404 in 62ms
+ GET /sample-motion.gif 404 in 101ms
+ ✓ Compiled /motion-graphic in 17ms
+ GET /motion-graphic 200 in 118ms
+ GET /sample-motion.mp4 404 in 86ms
+ GET /sample-motion.gif 404 in 89ms
+ GET /motion-graphic 200 in 188ms
+ GET /sample-motion.mp4 404 in 98ms
+ GET /sample-motion.gif 404 in 128ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 264ms
+ GET /sample-motion.mp4 404 in 56ms
+ GET /illustration 200 in 46ms
+ GET /sample-motion.mp4 404 in 66ms
+ GET /sample-motion.gif 404 in 109ms
+ ✓ Compiled /motion-graphic in 26ms
+ GET /sample-motion.mp4 404 in 129ms
+ GET /motion-graphic 200 in 136ms
+ GET /sample-motion.mp4 404 in 100ms
+ GET /logo-design 200 in 45ms
+ ✓ Compiled /logo-design in 24ms
+ GET /sample-motion.mp4 404 in 125ms
+ GET /logo-design 200 in 133ms
+ GET /sample-motion.mp4 404 in 101ms
+ ✓ Compiled /logo-design in 20ms
+ GET /logo-design 200 in 107ms
+ GET /logo-design 200 in 52ms
+ GET /logo-design 200 in 47ms
+ GET /logo-design 200 in 73ms
+ GET /logo-design 200 in 47ms
+ GET /logo-design 200 in 49ms
+ GET /logo-design 200 in 51ms
+ GET /logo-design 200 in 46ms
+ ✓ Compiled /logo-design in 21ms
+ GET /logo-design 200 in 103ms
+ GET /logo-design 200 in 213ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 253ms
+ GET /logo-design 200 in 86ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 236ms
+ GET /logo-design 200 in 98ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 235ms
+ GET /logo-design 200 in 104ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 235ms
+ ✓ Compiled /logo-design in 20ms
+ GET /logo-design 200 in 107ms
+ GET /logo-design 200 in 47ms
+ GET /logo-design 200 in 48ms
+ GET /logo-design 200 in 50ms
+ GET /logo-design 200 in 51ms
+ GET /logo-design 200 in 66ms
+ GET /logo-design 200 in 44ms
+ GET /logo-design 200 in 47ms
+ ✓ Compiled /logo-design in 26ms
+ GET /logo-design 200 in 138ms
+ GET /logo-design 200 in 84ms
+ GET /logo-design 200 in 56ms
+ GET /logo-design 200 in 110ms
+ GET /logo-design 200 in 57ms
+ GET /logo-design 200 in 75ms
+ GET /logo-design 200 in 56ms
+ GET /logo-design 200 in 53ms
+ ✓ Compiled /logo-design in 16ms
+ GET /logo-design 200 in 92ms
+ GET /logo-design 200 in 45ms
+ GET /logo-design 200 in 47ms
+ GET /logo-design 200 in 59ms
+ GET /logo-design 200 in 64ms
+ GET /logo-design 200 in 44ms
+ GET /logo-design 200 in 46ms
+ GET /logo-design 200 in 46ms
+ ✓ Compiled /logo-design in 32ms
+ GET /logo-design 200 in 156ms
+ GET /logo-design 200 in 68ms
+ GET /logo-design 200 in 87ms
+ GET /logo-design 200 in 50ms
+ GET /logo-design 200 in 50ms
+ GET /logo-design 200 in 47ms
+ GET /logo-design 200 in 50ms
+ GET /logo-design 200 in 48ms
+ ✓ Compiled /logo-design in 31ms
+ GET /logo-design 200 in 125ms
+ ✓ Compiled /logo-design in 17ms
+ GET /logo-design 200 in 101ms
+ ✓ Compiled /logo-design in 20ms
+ GET /logo-design 200 in 236ms
+ GET /logo-design 200 in 73ms
+ GET /logo-design 200 in 63ms
+ GET /logo-design 200 in 51ms
+ GET /logo-design 200 in 48ms
+ GET /logo-design 200 in 51ms
+ GET /logo-design 200 in 45ms
+ GET /logo-design 200 in 45ms
+ ✓ Compiled /logo-design in 19ms
+ GET /logo-design 200 in 108ms
+ GET /logo-design 200 in 169ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 258ms
+ ✓ Compiled in 41ms
+ GET /logo-design 200 in 302ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 251ms
+ ✓ Compiled in 47ms
+ ✓ Compiled /logo-design in 23ms
+ GET /logo-design 200 in 105ms
+ GET /logo-design 200 in 152ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 261ms
+ ✓ Compiled in 47ms
+ ✓ Compiled /logo-design in 35ms
+ GET /logo-design 200 in 111ms
+ ✓ Compiled /logo-design in 42ms
+ GET /logo-design 200 in 127ms
+ GET /logo-design 200 in 161ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 267ms
+ ✓ Compiled in 60ms
+ ✓ Compiled in 66ms
+ GET / 200 in 58ms
+ ✓ Compiled / in 23ms
+ GET / 200 in 117ms
+ GET / 200 in 58ms
+ GET / 200 in 61ms
+ GET / 200 in 42ms
+ GET / 200 in 45ms
+ GET /contact 404 in 53ms
+ GET /contact 404 in 61ms
+ GET / 200 in 179ms
+ GET /logo-design 200 in 95ms
+ GET /logo-design 200 in 61ms
+ ✓ Compiled /infographic-design in 33ms
+ GET /infographic-design 200 in 114ms
+ ✓ Compiled / in 21ms
+ GET / 200 in 99ms
+ ✓ Compiled in 87ms
+ GET / 200 in 80ms
+ ✓ Compiled /logo-design in 20ms
+ GET /logo-design 200 in 94ms
+ ✓ Compiled in 67ms
+ ✓ Compiled / in 35ms
+ GET / 200 in 133ms
+ ✓ Compiled / in 18ms
+ GET / 200 in 94ms
+ GET /contact 404 in 57ms
+ GET /contact 404 in 63ms
+ GET / 200 in 174ms
+ GET /logo-design 200 in 76ms
+ ✓ Compiled / in 28ms
+ GET / 200 in 168ms
+ ✓ Compiled / in 21ms
+ GET / 200 in 103ms
+ GET / 200 in 48ms
+ GET / 200 in 55ms
+ GET / 200 in 59ms
+ GET / 200 in 49ms
+ GET / 200 in 50ms
+ GET / 200 in 47ms
+ GET / 200 in 47ms
+ GET / 200 in 45ms
+ GET / 200 in 45ms
+ ✓ Compiled / in 16ms
+ GET / 200 in 89ms
+ ✓ Compiled / in 20ms
+ GET / 200 in 97ms
+ ✓ Compiled / in 18ms
+ GET / 200 in 88ms
+ ✓ Compiled / in 19ms
+ GET / 200 in 104ms
+ ✓ Compiled /ui-ux-design in 23ms
+ GET /ui-ux-design 200 in 95ms
+ GET / 200 in 62ms
+ ✓ Compiled /digital-design in 33ms
+ GET /digital-design 200 in 110ms
+ ✓ Compiled /infographic-design in 15ms
+ GET /infographic-design 200 in 42ms
+ ✓ Compiled /pos-design in 23ms
+ GET /pos-design 200 in 101ms
+ ✓ Compiled /layout-design in 19ms
+ GET /layout-design 200 in 92ms
+ ✓ Compiled /logo-design in 16ms
+ GET /logo-design 200 in 42ms
+ ✓ Compiled /logo-design in 17ms
+ GET /logo-design 200 in 96ms
+ ✓ Compiled /logo-design in 21ms
+ GET /logo-design 200 in 106ms
+ GET /logo-design 200 in 44ms
+ GET /logo-design 200 in 44ms
+ GET /logo-design 200 in 46ms
+ GET /logo-design 200 in 46ms
+ GET /logo-design 200 in 44ms
+ GET /logo-design 200 in 57ms
+ GET /logo-design 200 in 41ms
+ GET /logo-design 200 in 57ms
+ GET /logo-design 200 in 81ms
+ ✓ Compiled in 96ms
+ ✓ Compiled in 75ms
+ ✓ Compiled / in 22ms
+ GET / 200 in 105ms
+ GET /logo-design 200 in 61ms
+ GET / 200 in 48ms
+ GET /logo-design 200 in 67ms
+ ✓ Compiled /logo-design in 19ms
+ GET /logo-design 200 in 101ms
+ ✓ Compiled in 61ms
+ ✓ Compiled /logo-design in 42ms
+ GET /logo-design 200 in 133ms
+ ✓ Compiled /logo-design in 17ms
+ GET /logo-design 200 in 148ms
+ ✓ Compiled /logo-design in 16ms
+ GET /logo-design 200 in 93ms
+ ✓ Compiled /logo-design in 23ms
+ GET /logo-design 200 in 98ms
+ ✓ Compiled /logo-design in 16ms
+ GET /logo-design 200 in 92ms
+ ✓ Compiled in 49ms
+ ✓ Compiled /logo-design in 34ms
+ GET /logo-design 200 in 111ms
+ ✓ Compiled in 52ms
+ ✓ Compiled /logo-design in 35ms
+ GET /logo-design 200 in 112ms
+ ✓ Compiled in 52ms
+ GET /logo-design 200 in 70ms
+ ✓ Compiled / in 18ms
+ GET / 200 in 91ms
+ GET /logo-design 200 in 58ms
+ ✓ Compiled in 65ms
+ GET /logo-design 200 in 55ms
+ ✓ Compiled in 51ms
+ GET /logo-design 200 in 56ms
+ ✓ Compiled /logo-design in 21ms
+ GET /logo-design 200 in 105ms
+ ✓ Compiled / in 23ms
+ GET / 200 in 60ms
+ ✓ Compiled / in 18ms
+ GET / 200 in 101ms
+ ✓ Compiled / in 21ms
+ GET / 200 in 100ms
+ GET /logo-design 200 in 42ms
+ ✓ Compiled in 60ms
+ ✓ Compiled in 85ms
+ ✓ Compiled in 61ms
+ ✓ Compiled in 71ms
+ ✓ Compiled in 72ms
+ GET / 200 in 62ms
+ ✓ Compiled /ui-ux-design in 27ms
+ GET /ui-ux-design 200 in 106ms
+ ✓ Compiled /ui-ux-design in 22ms
+ GET /ui-ux-design 200 in 154ms
+ ✓ Compiled /ui-ux-design in 23ms
+ GET /ui-ux-design 200 in 113ms
+ ✓ Compiled /ui-ux-design in 21ms
+ GET /ui-ux-design 200 in 100ms
+ GET /ui-ux-design 200 in 164ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 274ms
+ GET / 200 in 61ms
+ GET /ui-ux-design 200 in 63ms
+ GET / 200 in 60ms
+ GET /logo-design 200 in 91ms
+ GET / 200 in 62ms
+ GET /logo-design 200 in 60ms
+ GET /ui-ux-design 200 in 69ms
+ ✓ Compiled /infographic-design in 18ms
+ GET /infographic-design 200 in 59ms
+ GET /infographic-design 200 in 58ms
+ ✓ Compiled /infographic-design in 29ms
+ GET /infographic-design 200 in 131ms
+ GET /infographic-design 200 in 189ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 260ms
+ GET /infographic-design 200 in 49ms
+ ✓ Compiled in 86ms
+ ✓ Compiled /infographic-design in 19ms
+ GET /infographic-design 200 in 109ms
+ ✓ Compiled /logo-design in 34ms
+ GET /logo-design 200 in 134ms
+ ✓ Compiled /motion-graphic in 23ms
+ GET /motion-graphic 200 in 121ms
+ ✓ Compiled in 47ms
+ GET / 200 in 117ms
+ ✓ Compiled / in 18ms
+ GET / 200 in 105ms
+ ✓ Compiled / in 23ms
+ GET / 200 in 111ms
+ GET /motion-graphic 200 in 63ms
+ GET /motion-graphic 200 in 266ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 279ms
+ ✓ Compiled /motion-graphic in 34ms
+ GET /motion-graphic 200 in 123ms
+ ✓ Compiled in 181ms
+ GET /motion-graphic 200 in 227ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 267ms
+ ✓ Compiled /layout-design in 17ms
+ GET /layout-design 200 in 49ms
+ ✓ Compiled in 69ms
+ GET /logo-design 200 in 115ms
+ GET /motion-graphic 200 in 56ms
+ ✓ Compiled in 68ms
+ GET / 200 in 72ms
+ GET /logo-design 200 in 162ms
+ ✓ Compiled /logo-design in 20ms
+ GET /logo-design 200 in 104ms
+ GET /ui-ux-design 200 in 68ms
+ ✓ Compiled /ui-ux-design in 24ms
+ GET /ui-ux-design 200 in 119ms
+ GET / 200 in 117ms
+ GET /motion-graphic 200 in 51ms
+ ✓ Compiled /motion-graphic in 23ms
+ GET /motion-graphic 200 in 125ms
+ ✓ Compiled in 66ms
+ ✓ Compiled /motion-graphic in 21ms
+ GET /motion-graphic 200 in 102ms
+ GET /motion-graphic 200 in 197ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 405ms
+ ✓ Compiled /motion-graphic in 22ms
+ GET /motion-graphic 200 in 107ms
+ ✓ Compiled in 67ms
+ GET /motion-graphic 200 in 233ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 284ms
+ ✓ Compiled in 77ms
+ ✓ Compiled /motion-graphic in 21ms
+ GET /motion-graphic 200 in 96ms
+ ✓ Compiled in 59ms
+ ✓ Compiled in 97ms
+ ✓ Compiled in 48ms
+ ✓ Compiled in 61ms
+ ✓ Compiled in 58ms
+ ✓ Compiled in 61ms
+ ✓ Compiled in 51ms
+ ✓ Compiled in 44ms
+ ✓ Compiled in 60ms
+ GET /motion-graphic 200 in 285ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 279ms
+ GET /favicon.ico 200 in 243ms
+ GET /motion-graphic 200 in 92ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 305ms
+ GET / 200 in 67ms
+ GET /motion-graphic 200 in 51ms
+ GET /ui-ux-design 200 in 47ms
+ GET /infographic-design 200 in 55ms
+ GET /ui-ux-design 200 in 56ms
+ GET /motion-graphic 200 in 48ms
+ GET /infographic-design 200 in 61ms
+ ✓ Compiled /infographic-design in 18ms
+ GET /infographic-design 200 in 96ms
+ ✓ Compiled /infographic-design in 24ms
+ GET /infographic-design 200 in 102ms
+ ✓ Compiled /infographic-design in 16ms
+ GET /infographic-design 200 in 88ms
+ ✓ Compiled /digital-design in 15ms
+ GET /digital-design 200 in 42ms
+ ✓ Compiled /digital-design in 15ms
+ GET /digital-design 200 in 95ms
+ ✓ Compiled /digital-design in 20ms
+ GET /digital-design 200 in 99ms
+ ✓ Compiled /digital-design in 20ms
+ GET /digital-design 200 in 108ms
+ ✓ Compiled /_not-found/page in 80ms
+ GET /digital-design/AMER_3P_ED_Session_DrMSmall_1080x1080-4.jpg 404 in 255ms
+ GET /digital-design/EMEA_MX-ISP_FB_Social_2021.jpg 404 in 303ms
+ GET /digital-design/APAC_Reggs_FillLearningGaps_1080x1080_2021-1-a.jpg 404 in 347ms
+ GET /digital-design/EMEA-RE-Phonics-Starter-Pack.jpg 404 in 370ms
+ GET /digital-design/AMER_Review_MX_WB_1080x1080_2021-2.jpg 404 in 363ms
+ GET /digital-design/EMEA_MX_Homework_BOFU_1080x1080px_2021-2.jpg 404 in 371ms
+ GET /digital-design/Fast-Phonics-BOFU-1.png 404 in 144ms
+ GET /digital-design/APAC_Sept_BOFU_WF_Insta_V7.jpg 404 in 221ms
+ GET /digital-design/OS_DisplayBanner_970x250.gif 404 in 228ms
+ GET /digital-design/APAC_3P_Stem_CER_Insta_1080x1080_v1.jpg 404 in 230ms
+ GET /digital-design/APAC_OCT_BOFU_REGGS_INST_2020_V1.jpg 404 in 237ms
+ GET /digital-design/MX_JUNE_Bofu_INT_1080x1080_2020_V1.jpg 404 in 232ms
+ GET /digital-design 200 in 176ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 245ms
+ ✓ Compiled /pos-design in 18ms
+ GET /pos-design 200 in 49ms
+ GET /layout-design 200 in 47ms
+ GET /logo-design 200 in 52ms
+ ✓ Compiled /illustration in 21ms
+ GET /illustration 200 in 96ms
+ GET / 200 in 50ms
+ GET /ui-ux-design 200 in 65ms
+ GET /pos-design 200 in 54ms
+ GET /layout-design 200 in 59ms
+ GET /logo-design 200 in 41ms
+ GET /illustration 200 in 51ms
+ GET /digital-design 200 in 58ms
+ GET /pos-design 200 in 40ms
+ GET /layout-design 200 in 59ms
+ GET /logo-design 200 in 44ms
+ GET /illustration 200 in 91ms
+ GET /pos-design 200 in 43ms
+ GET /layout-design 200 in 41ms
+ GET /infographic-design 200 in 44ms
+ GET /infographic-design 200 in 45ms
+ GET /digital-design 200 in 49ms
+ GET /pos-design 200 in 69ms
+ ✓ Compiled /pos-design in 19ms
+ GET /pos-design 200 in 139ms
+ ✓ Compiled in 123ms
+ ✓ Compiled in 75ms
+ ✓ Compiled in 72ms
+ GET /motion-graphic 200 in 114ms
+ GET /ui-ux-design 200 in 64ms
+ GET /motion-graphic 200 in 43ms
+ ✓ Compiled in 71ms
+ GET / 200 in 50ms
+ GET /motion-graphic 200 in 107ms
+ GET /ui-ux-design 200 in 44ms
+ GET /infographic-design 200 in 43ms
+ GET /digital-design 200 in 44ms
+ GET /pos-design 200 in 40ms
+ GET /digital-design 200 in 49ms
+ GET /pos-design 200 in 60ms
+ GET /layout-design 200 in 61ms
+ ✓ Compiled /layout-design in 15ms
+ GET /layout-design 200 in 90ms
+ GET /logo-design 200 in 48ms
+ GET /logo-design 200 in 53ms
+ GET /illustration 200 in 61ms
+ ✓ Compiled /illustration in 18ms
+ GET /illustration 200 in 103ms
+ GET / 200 in 61ms
+ GET /motion-graphic 200 in 68ms
+ GET /ui-ux-design 200 in 49ms
+ GET / 200 in 46ms
+ ✓ Compiled / in 35ms
+ GET / 200 in 157ms
+ GET /icons/ui-ux-design.png 404 in 225ms
+ GET /icons/infographic-design.png 404 in 274ms
+ GET /icons/pos-design.png 404 in 273ms
+ GET /icons/layout-design.png 404 in 320ms
+ GET /icons/logo-design.png 404 in 325ms
+ GET /icons/digital-design.png 404 in 332ms
+ ✓ Compiled / in 24ms
+ GET / 200 in 113ms
+ GET / 200 in 170ms
+ GET /icons/ui-ux-design.png 404 in 246ms
+ GET /icons/infographic-design.png 404 in 244ms
+ GET /icons/digital-design.png 404 in 258ms
+ GET /icons/layout-design.png 404 in 280ms
+ GET /icons/pos-design.png 404 in 282ms
+ GET /icons/logo-design.png 404 in 281ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 271ms
+ ✓ Compiled / in 17ms
+ GET / 200 in 96ms
+ GET /icons/layout.png.png 404 in 229ms
+ GET /icons/pos.png.png 404 in 244ms
+ GET /icons/infographic.png.png 404 in 260ms
+ GET /icons/ui-ux.png.png 404 in 263ms
+ GET /icons/digital.png.png 404 in 261ms
+ GET /icons/logo.png.png 404 in 316ms
+ ✓ Compiled / in 16ms
+ GET / 200 in 90ms
+ ✓ Compiled in 111ms
+ ✓ Compiled / in 33ms
+ GET / 200 in 129ms
+ ✓ Compiled / in 16ms
+ GET / 200 in 93ms
+ ✓ Compiled / in 17ms
+ GET / 200 in 89ms
+ GET / 200 in 148ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 255ms
+ ✓ Compiled / in 24ms
+ GET / 200 in 112ms
+ ✓ Compiled / in 19ms
+ GET / 200 in 95ms
+ GET / 200 in 192ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 318ms
+ GET /ui-ux-design 200 in 69ms
+ GET /infographic-design 200 in 62ms
+ GET /digital-design 200 in 74ms
+ GET /contact 404 in 64ms
+ GET /contact 404 in 66ms
+ GET / 200 in 90ms
+ GET /cv 404 in 61ms
+ GET /cv 404 in 59ms
+ GET / 200 in 93ms
+ GET /contact 404 in 36ms
+ GET /contact 404 in 57ms
+ GET / 200 in 104ms
+ GET / 200 in 110ms
+ GET / 200 in 48ms
+ ✓ Compiled in 69ms
+ ✓ Compiled /contact in 285ms
+ GET /contact 200 in 328ms
+ ✓ Compiled /contact in 22ms
+ GET /contact 200 in 110ms
+ GET /contact? 200 in 188ms
+ ✓ Compiled /contact in 19ms
+ GET /contact 200 in 97ms
+ ✓ Compiled in 60ms
+ ✓ Compiled /contact in 33ms
+ GET /contact 200 in 121ms
+ GET / 200 in 47ms
+ GET /motion-graphic 200 in 73ms
+ ✓ Compiled in 62ms
+ GET /motion-graphic 200 in 58ms
+ ✓ Compiled in 57ms
+ GET /motion-graphic 200 in 55ms
+ GET / 200 in 68ms
+ ✓ Compiled /contact in 18ms
+ GET /contact 200 in 107ms
+ ✓ Compiled /contact in 17ms
+ GET /contact 200 in 97ms
+ ✓ Compiled /contact in 15ms
+ GET /contact 200 in 94ms
+ ✓ Compiled /contact in 16ms
+ GET /contact 200 in 146ms
+ ✓ Compiled /contact in 18ms
+ GET /contact 200 in 93ms
+ ✓ Compiled /contact in 29ms
+ GET /contact 200 in 127ms
+ ✓ Compiled /contact in 16ms
+ GET /contact 200 in 90ms
+ GET /contact 200 in 160ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 457ms
+ ✓ Compiled /contact in 20ms
+ GET /contact 200 in 102ms
+ GET / 200 in 64ms
+ GET /cv 404 in 92ms
+ GET /cv 404 in 140ms
+ ✓ Compiled /cv in 302ms
+ GET /cv 200 in 396ms
+ GET /cv 200 in 89ms
+ ✓ Compiled /cv in 26ms
+ GET /cv 200 in 120ms
+ ✓ Compiled /cv in 16ms
+ GET /cv 200 in 100ms
+ ✓ Compiled /cv in 21ms
+ GET /cv 200 in 129ms
+ ✓ Compiled in 59ms
+ ✓ Compiled /cv in 49ms
+ GET /cv 200 in 149ms
+ ✓ Compiled /cv in 20ms
+ GET /cv 200 in 112ms
+ ✓ Compiled /cv in 25ms
+ GET /cv 200 in 163ms
+ ✓ Compiled in 76ms
+ ✓ Compiled /cv in 38ms
+ ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button type="button" onClick={function onClick} className=... children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at stringify (<anonymous>) {
+  digest: '3940739040'
+}
+ GET /cv 200 in 344ms
+ ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button type="button" onClick={function onClick} className=... children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at stringify (<anonymous>) {
+  digest: '3940739040'
+}
+ GET /cv 500 in 377ms
+ GET /favicon.ico 200 in 509ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 556ms
+ ✓ Compiled /cv in 28ms
+ ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button type="button" onClick={function onClick} className=... children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at stringify (<anonymous>) {
+  digest: '3940739040'
+}
+ GET /cv 500 in 478ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 284ms
+ GET /favicon.ico 200 in 279ms
+ ✓ Compiled /cv in 18ms
+ ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button type="button" onClick={function onClick} className=... children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at stringify (<anonymous>) {
+  digest: '3940739040'
+}
+ GET /cv 500 in 377ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 397ms
+ GET /favicon.ico 200 in 388ms
+ ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button type="button" onClick={function onClick} className=... children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at stringify (<anonymous>) {
+  digest: '3940739040'
+}
+ GET /cv 500 in 288ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 333ms
+ GET /favicon.ico 200 in 335ms
+ ✓ Compiled /cv in 32ms
+ GET /cv 200 in 378ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 386ms
+ GET /cv 200 in 193ms
+ ✓ Compiled /cv in 33ms
+ GET /cv 200 in 193ms
+ GET /cv 200 in 141ms
+ GET /cv 200 in 56ms
+ GET /cv 200 in 112ms
+ GET /cv 200 in 60ms
+ GET /cv 200 in 81ms
+ ✓ Compiled in 100ms
+ ✓ Compiled /cv in 37ms
+ ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button type="button" onClick={function onClick} className=... children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+    at stringify (<anonymous>) {
+  digest: '3940739040'
+}
+ GET /cv 200 in 311ms
+ ✓ Compiled /cv in 19ms
+ GET /cv 200 in 308ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 344ms
+ ✓ Compiled /cv2 in 220ms
+ GET /cv2 200 in 387ms
+ ✓ Compiled /cv2 in 25ms
+ GET /cv2 200 in 169ms
+ ✓ Compiled /cv2 in 16ms
+ GET /cv2 200 in 121ms
+ ✓ Compiled /cv2 in 17ms
+ GET /cv2 200 in 108ms
+ ✓ Compiled /cv2 in 16ms
+ GET /cv2 200 in 104ms
+ ✓ Compiled /cv2 in 23ms
+ GET /cv2 200 in 186ms
+ ✓ Compiled /cv2 in 30ms
+ GET /cv2 200 in 137ms
+ ✓ Compiled /cv2 in 19ms
+ GET /cv2 200 in 114ms
+ ✓ Compiled /cv2 in 20ms
+ GET /cv2 200 in 138ms
+ ✓ Compiled /cv2 in 29ms
+ GET /cv2 200 in 139ms
+ ✓ Compiled /cv2 in 23ms
+ GET /cv2 200 in 125ms
+ ✓ Compiled /cv2 in 22ms
+ GET /cv2 200 in 115ms
+ ✓ Compiled /cv2 in 17ms
+ GET /cv2 200 in 107ms
+ ✓ Compiled /cv2 in 18ms
+ GET /cv2 200 in 109ms
+ ✓ Compiled /cv2 in 21ms
+ GET /cv2 200 in 108ms
+ ✓ Compiled /cv2 in 25ms
+ GET /cv2 200 in 128ms
+ GET /cv2 200 in 623ms
+ ✓ Compiled /cv2 in 31ms
+ GET /cv2 200 in 141ms
+ ✓ Compiled in 92ms
+ ✓ Compiled /cv2 in 83ms
+ GET /cv2 200 in 200ms
+ GET /cv2 200 in 226ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 331ms
+ GET /cv2 200 in 151ms
