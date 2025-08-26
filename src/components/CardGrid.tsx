@@ -93,7 +93,7 @@ export default function CardGrid({ items }: Props) {
             className="group overflow-hidden shadow-sm hover:shadow-md transition-shadow"
           >
             {item.imageSrc ? (
-              <div className="h-64 w-full bg-white/70 flex items-center justify-center rounded-lg">
+              <div className="h-64 w-full bg-white flex items-center justify-center rounded-lg">
                 {/* eslint-disable-next-line @next/next/no-img-element */}
                 {item.popup ? (
                   <button
