@@ -4,7 +4,7 @@ import { Mail, MapPin } from "lucide-react";
 
 export const metadata = {
   title: "Jee Un (Janet) Kim — CV",
-  description: "Senior Graphic & Multimedia Designer CV",
+  description: "Digital Design Officer",
 };
 
 export default function Page() {
@@ -18,7 +18,7 @@ export default function Page() {
             JEE UN (JANET) KIM
           </h1>
           <p className="mt-1 text-sm md:text-base text-gray-700">
-            Senior Graphic and Multimedia Designer
+            Digital Design Officer
           </p>
 
           <div className="mt-4 flex flex-wrap gap-x-4 gap-y-1 text-sm text-gray-700">
@@ -59,7 +59,7 @@ export default function Page() {
             , with proven expertise in optimising{" "}
             <strong>
               Rise courses, PowerPoint presentations, and interactive PDFs
-            </strong>
+            </strong>{" "}
             to create engaging, WCAG-compliant learning experiences. Proficient
             in Adobe Creative Suite (Illustrator, Photoshop, InDesign, Animate,
             Acrobat, After Effects, Premiere Pro), I combine creativity and
@@ -297,29 +297,7 @@ export default function Page() {
               </span>
             </summary>
             <div className="mt-3 space-y-2 text-sm">
-              <p>
-                <strong>David Boccalatte</strong> — Senior Digital Design
-                Officer, Curriculum Directorate (DoE)
-              </p>
-              <p>
-                <strong>Isaac Graham</strong> — Learning Design & Development
-                Advisor (DoE)
-              </p>
-              <p>
-                <strong>Liam Kerr</strong> — Global Head of B2B Marketing (3P
-                Learning)
-              </p>
-              <p>
-                <strong>Leigh Redman</strong> — Chief Marketing Officer (3P
-                Learning)
-              </p>
-              <p>
-                <strong>George Karantonis</strong> — Creative Director (Image
-                Smart)
-              </p>
-              <p className="text-gray-600">
-                Full contact details available on request.
-              </p>
+              <p>Full contact details available on request.</p>
             </div>
           </details>
         </section>

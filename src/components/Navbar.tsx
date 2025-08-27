@@ -10,10 +10,10 @@ const links = [
   { href: "/ui-ux-design", label: "UI/UX Design" },
   { href: "/infographic-design", label: "Infographic Design" },
   { href: "/digital-design", label: "Digital Design" },
-  { href: "/pos-design", label: "POS Design" },
   { href: "/layout-design", label: "Layout Design" },
-  { href: "/logo-design", label: "Logo Design" },
   { href: "/illustration", label: "Illustration" },
+  { href: "/logo-design", label: "Logo Design" },
+  { href: "/pos-design", label: "POS Design" },
 ];
 
 export default function Navbar() {
@@ -21,7 +21,7 @@ export default function Navbar() {
   const [open, setOpen] = useState(false);
 
   return (
-    <header className="sticky top-0 z-50 w-full border-b border-black/10 bg-background/60 absolute top-0 left-0 right-0">
+    <header className="sticky top-0 z-50 w-full border-b border-black/10 bg-background/90 absolute top-0 left-0 right-0">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="flex h-16 items-center justify-between">
           <Link href="/" className="font-semibold tracking-tight">
@@ -77,5 +77,3 @@ export default function Navbar() {
     </header>
   );
 }
-
-

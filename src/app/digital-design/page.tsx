@@ -6,26 +6,94 @@ export default function Page() {
     <div>
       <PageHeader
         title="Digital Design"
-        subtitle="Web, social, and campaign visuals optimized for screens."
+        subtitle="Web, social, and campaign visuals optimised for screens."
       />
       <CardGrid
         items={[
-          {title:"OS_DisplayBanner_970x250.gif", imageSrc: "/digital-design/OS_DisplayBanner_970x250.gif", popup: true },
-          {title:"AMER_3P_ED_Session_DrMSmall_1080x1080-4.jpg", imageSrc: "/digital-design/AMER_3P_ED_Session_DrMSmall_1080x1080-4.jpg", popup: true },
-          {title:"EMEA-RE-Phonics-Starter-Pack.jpg", imageSrc: "/digital-design/EMEA-RE-Phonics-Starter-Pack.jpg", popup: true },
-          {title:"EMEA_MX-ISP_FB_Social_2021.jpg", imageSrc: "/digital-design/EMEA_MX-ISP_FB_Social_2021.jpg", popup: true },
-          {title:"EMEA_MX_Homework_BOFU_1080x1080px_2021-2.jpg", imageSrc: "/digital-design/EMEA_MX_Homework_BOFU_1080x1080px_2021-2.jpg", popup: true },
-          {title:"APAC_Reggs_FillLearningGaps_1080x1080_2021-1-a.jpg", imageSrc: "/digital-design/APAC_Reggs_FillLearningGaps_1080x1080_2021-1-a.jpg", popup: true },
-          {title:"AMER_Review_MX_WB_1080x1080_2021-2.jpg", imageSrc: "/digital-design/AMER_Review_MX_WB_1080x1080_2021-2.jpg", popup: true },
-          {title:"Fast-Phonics-BOFU-1.png", imageSrc: "/digital-design/Fast-Phonics-BOFU-1.png", popup: true },
-          {title:"APAC_OCT_BOFU_REGGS_INST_2020_V1.jpg", imageSrc: "/digital-design/APAC_OCT_BOFU_REGGS_INST_2020_V1.jpg", popup: true },
-          {title:"APAC_Sept_BOFU_WF_Insta_V7.jpg", imageSrc: "/digital-design/APAC_Sept_BOFU_WF_Insta_V7.jpg", popup: true },
-          {title:"MX_JUNE_Bofu_INT_1080x1080_2020_V1.jpg", imageSrc: "/digital-design/MX_JUNE_Bofu_INT_1080x1080_2020_V1.jpg", popup: true },
-          {title:"APAC_3P_Stem_CER_Insta_1080x1080_v1.jpg", imageSrc: "/digital-design/APAC_3P_Stem_CER_Insta_1080x1080_v1.jpg", popup: true },
+          {
+            title: "Opportunity Class Entry Banner",
+            imageSrc: "/digital-design/oc_dnanner_970x250.gif",
+            popup: true,
+            description:
+              "Social display banner promoting Opportunity Class entry, optimized for web.",
+          },
+          {
+            title: "Overcoming Math Anxiety – Event Promotio",
+            imageSrc: "/digital-design/amer_3p_ed_session.jpg",
+            popup: true,
+            description:
+              "Event promo graphic for a professional learning session with Dr Marian Small.",
+          },
+          {
+            title: "ISP Maths Challenge – Social Post",
+            imageSrc: "/digital-design/emea-isp_fb_social_2021.jpg",
+            popup: true,
+            description:
+              "Social post encouraging registrations for the ISP Maths Challenge.",
+          },
+          {
+            title: "Mathletics K–8 Workbooks – Social Post",
+            imageSrc: "/digital-design/amer_review_mx_wb.jpg",
+            popup: true,
+            description: "Social post promoting Mathletics K–8 workbooks.",
+          },
+          {
+            title: "Homework Engagement (Mathletics) – BOFU Social Post",
+            imageSrc: "/digital-design/emea_mx_homework_bofu.jpg",
+            popup: true,
+            description:
+              "Social post highlighting homework features to drive engagement.",
+          },
+          {
+            title: "Tracking Progress Made Simple (Mathletics) – Social Post",
+            imageSrc: "/digital-design/mx_bofu_insta.jpg",
+            popup: true,
+            description:
+              "Social post showcasing Mathletics’ progress-tracking features.",
+          },
+          {
+            title: "Phonics Starter Pack (Reading Eggs) – Social Post",
+            imageSrc: "/digital-design/emea-re-phonics-starter-pack.jpg",
+            popup: true,
+            description:
+              "Social post promoting the Reading Eggs Phonics Starter Pack.",
+          },
+          {
+            title: "Fast Phonics – BOFU Social Post",
+            imageSrc: "/digital-design/fp_bofu.png",
+            popup: true,
+            description: "Social post driving conversion for Fast Phonics.",
+          },
+          {
+            title: "Reading Gaps (Reading Eggs) – Social Post",
+            imageSrc: "/digital-design/apac_reggs_flg.jpg",
+            popup: true,
+            description:
+              "Social post highlighting tools to identify and address reading gaps.",
+          },
+          {
+            title: "Explore & Excite with Reading Eggs – Social Post",
+            imageSrc: "/digital-design/apac_reggs.jpg",
+            popup: true,
+            description:
+              "Social post for the “Explore & Excite with Reading Eggs” campaign.",
+          },
+          {
+            title: "WordFlyers – Social Post",
+            imageSrc: "/digital-design/apac_sept_wf_Insta.jpg",
+            popup: true,
+            description:
+              "Social post promoting WordFlyers with bold, platform-consistent visuals.",
+          },
+          {
+            title: "STEMscopes – Social Post",
+            imageSrc: "/digital-design/apac_3p_stem.jpg",
+            popup: true,
+            description:
+              "Social post promoting STEMscopes with clear, accessible layout.",
+          },
         ]}
       />
     </div>
   );
 }
-
-

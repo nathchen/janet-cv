@@ -1,6 +1,38 @@
 import Link from "next/link";
+function MaskedIcon({ src, className }: { src: string; className?: string }) {
+  return (
+    <span
+      className={`inline-block ${className}`}
+      style={{
+        backgroundColor: "currentColor",
+        WebkitMask: `url(${src}) no-repeat center / contain`,
+        mask: `url(${src}) no-repeat center / contain`,
+      }}
+      aria-hidden
+    />
+  );
+}
 
 export default function Home() {
+  const items = [
+    { href: "/motion-graphic", icon: "/icons/motion.svg", label: "Motion" },
+    { href: "/ui-ux-design", icon: "/icons/ui-ux.svg", label: "UI/UX" },
+    {
+      href: "/infographic-design",
+      icon: "/icons/infographic.svg",
+      label: "Infographic",
+    },
+    { href: "/digital-design", icon: "/icons/digital.svg", label: "Digital" },
+    { href: "/layout-design", icon: "/icons/layout.svg", label: "Layout" },
+    {
+      href: "/illustration",
+      icon: "/icons/illustration.svg",
+      label: "Illustration",
+    },
+    { href: "/logo-design", icon: "/icons/logo.svg", label: "Logo" },
+    { href: "/pos-design", icon: "/icons/pos.svg", label: "POS" },
+  ];
+
   return (
     <div>
       <section className="relative isolate overflow-hidden text-white mb-10">
@@ -42,30 +74,14 @@ export default function Home() {
       <section className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 pb-12">
         <h2 className="text-xl font-medium mb-4">Featured Categories</h2>
         <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-3 text-sm">
-          {[
-            { href: "/motion-design", icon: "ui-ux.png", label: "Motion" },
-            { href: "/ui-ux-design", icon: "ui-ux.png", label: "UI/UX" },
-            {
-              href: "/infographic-design",
-              icon: "infographic.png",
-              label: "Infographic",
-            },
-            { href: "/digital-design", icon: "digital.png", label: "Digital" },
-            { href: "/pos-design", icon: "pos.png", label: "POS" },
-            { href: "/layout-design", icon: "layout.png", label: "Layout" },
-            { href: "/logo-design", icon: "logo.png", label: "Logo" },
-          ].map((item) => (
+          {items.map((item) => (
             <Link
               key={item.href}
               href={item.href}
-              className="rounded border border-black/10 px-3 py-2 flex flex-col items-center justify-center text-center hover:bg-foreground/5"
+              className="rounded text-xl text-white hover:text-green-500 border border-black/10 px-3 py-2 flex flex-col items-center justify-center text-center hover:bg-foreground/5"
             >
-              <img
-                src={`/icons/${item.icon}`}
-                alt={item.label}
-                className="w-40"
-              />
-              {/* {item.label} */}
+              <MaskedIcon src={item.icon} className="w-40 h-40" />
+              {item.label}
             </Link>
           ))}
         </div>

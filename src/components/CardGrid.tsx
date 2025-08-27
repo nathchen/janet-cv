@@ -55,9 +55,9 @@ export default function CardGrid({ items }: Props) {
       <canvas
         ref={canvasRef}
         aria-label={alt}
-        className="h-full w-auto max-h-full max-w-full object-contain p-3 bg-foreground/5 rounded"
-        width={800}
-        height={800}
+        className="h-full w-auto max-h-full max-w-full object-contain bg-foreground/5 rounded"
+        width={1000}
+        height={700}
       />
     );
   }
@@ -107,9 +107,11 @@ export default function CardGrid({ items }: Props) {
                     ) : isMp4(item.imageSrc) ? (
                       <div className="h-full w-full max-h-full grid place-items-center p-3">
                         <div className="aspect-video w-full max-h-full rounded grid">
-                          <img src={item.thumbnail!} 
-                          alt={item.title}  
-                          className="h-full w-auto max-h-full max-w-full object-contain p-3 transition-transform duration-300 ease-out group-hover:scale-[1.05]" />
+                          <img
+                            src={item.thumbnail!}
+                            alt={item.title}
+                            className="h-full w-auto max-h-full max-w-full object-contain p-3 transition-transform duration-300 ease-out group-hover:scale-[1.05]"
+                          />
                         </div>
                       </div>
                     ) : (
@@ -121,23 +123,21 @@ export default function CardGrid({ items }: Props) {
                       />
                     )}
                   </button>
-                ) : (
-                  isGif(item.imageSrc) ? (
-                    <GifPreview src={item.imageSrc!} alt={item.title} />
-                  ) : isMp4(item.imageSrc) ? (
-                    <div className="h-full w-full grid place-items-center p-3">
-                      <div className="aspect-video w-full rounded border border-black/10 bg-foreground/5 grid place-items-center">
-                        <span className="text-xs text-foreground/60">Video</span>
-                      </div>
+                ) : isGif(item.imageSrc) ? (
+                  <GifPreview src={item.imageSrc!} alt={item.title} />
+                ) : isMp4(item.imageSrc) ? (
+                  <div className="h-full w-full grid place-items-center p-3">
+                    <div className="aspect-video w-full rounded border border-black/10 bg-foreground/5 grid place-items-center">
+                      <span className="text-xs text-foreground/60">Video</span>
                     </div>
-                  ) : (
-                    // eslint-disable-next-line @next/next/no-img-element
-                    <img
-                      alt={item.title}
-                      src={item.imageSrc}
-                      className="h-full w-auto max-h-full max-w-full object-contain p-3 transition-transform duration-300 ease-out group-hover:scale-[1.05]"
-                    />
-                  )
+                  </div>
+                ) : (
+                  // eslint-disable-next-line @next/next/no-img-element
+                  <img
+                    alt={item.title}
+                    src={item.imageSrc}
+                    className="h-full w-auto max-h-full max-w-full object-contain p-3 transition-transform duration-300 ease-out group-hover:scale-[1.05]"
+                  />
                 )}
               </div>
             ) : (
@@ -179,6 +179,7 @@ export default function CardGrid({ items }: Props) {
                 className="block h-auto w-auto max-h-[90vh] max-w-[90vw] object-contain bg-black rounded"
                 controls
                 autoPlay
+                muted
               >
                 <source src={openItem.imageSrc} type="video/mp4" />
                 Your browser does not support the video tag.
@@ -191,12 +192,12 @@ export default function CardGrid({ items }: Props) {
                 className="block h-auto w-auto max-h-[90vh] max-w-[90vw] object-contain bg-white rounded"
               />
             )}
-            <div className="mt-2 text-center text-sm text-white/90">{openItem.title}</div>
+            <div className="mt-2 text-center text-sm text-white/90">
+              {openItem.title}
+            </div>
           </div>
         </div>
       ) : null}
     </div>
   );
 }
-
-

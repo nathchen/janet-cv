@@ -505,7 +505,7 @@
  GET /icons/layout.png.png 404 in 229ms
  GET /icons/pos.png.png 404 in 244ms
  GET /icons/infographic.png.png 404 in 260ms
- GET /icons/ui-ux.png.png 404 in 263ms
+ GET /icons/ui-ux.svg.svg 404 in 263ms
  GET /icons/digital.png.png 404 in 261ms
  GET /icons/logo.png.png 404 in 316ms
  ✓ Compiled / in 16ms
