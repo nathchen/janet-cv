@@ -33,35 +33,35 @@ export default function Page() {
           },
           {
             title: "Geography Process Infographic",
-            imageSrc: "/infographic/HSIE_Geo-info-graphics2.jpg",
+            imageSrc: "/infographic/hsie_geo-info-graphics2.jpg",
             popup: true,
             description:
               "Step-by-step infographic created for HSIE geography PPTX content.",
           },
           {
             title: "Geography Concept Infographic 2",
-            imageSrc: "/infographic/HSIE_Geo-info-graphics.jpg",
+            imageSrc: "/infographic/hsie_geo-info-graphics.jpg",
             popup: true,
             description:
               "Visual guide designed for HSIE geography worksheets, using simplified numbered icons.",
           },
           {
             title: "Biome Infographic 1 – HSIE",
-            imageSrc: "/infographic/HSIE_Geo-image-Biomes1.jpg",
+            imageSrc: "/infographic/hsie_geo-image-Biomes1.jpg",
             popup: true,
             description:
               "Infographic showing biome layers and key traits, created for HSIE lesson slides.",
           },
           {
             title: "Biome Infographic 2 – HSIE",
-            imageSrc: "/infographic/HSIE_Geo-image-Biomes2.jpg",
+            imageSrc: "/infographic/hsie_geo-image-biomes2.jpg",
             popup: true,
             description:
               "Triangle-style biome infographic with environmental details for HSIE learning materials.",
           },
           {
             title: "Biome Infographic 3 – HSIE",
-            imageSrc: "/infographic/HSIE_Geo-image-Biomes3.jpg",
+            imageSrc: "/infographic/hsie_geo-image-Biomes3.jpg",
             popup: true,
             description:
               "Landscape infographic of biomes with climate and vegetation, created for HSIE worksheets.",
@@ -103,7 +103,7 @@ export default function Page() {
           },
           {
             title: "Mind Growth Diagram",
-            imageSrc: "/infographic/Reggs-MX-MS-mindgrowth.png",
+            imageSrc: "/infographic/reggs-mx-ms-mindgrowth.png",
             popup: true,
             description:
               "Growth-mindset style infographic created as a client resource for Mathletics, Reading Eggs, and Mathseeds.",

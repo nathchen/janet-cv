@@ -12,7 +12,7 @@ export default function Page() {
         items={[
           {
             title: "World Maths Day Trophy Display",
-            imageSrc: "/pos-design/WMD_Trophy2018.png",
+            imageSrc: "/pos-design/wmd_trophy2018.png",
             popup: true,
             description:
               "In-store style display trophy design for World Maths Day 2018, created to attract attention at events.",

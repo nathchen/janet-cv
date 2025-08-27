@@ -60,14 +60,6 @@ export default function Page() {
               "Showcase of the Teaching and Learning Cycle, presented as a GIF illustrating planning, practice, assessment, and analysis.",
           },
           {
-            title: "Powerpoint animation SDD",
-            thumbnail: "/motion-graphic/sdd_sd_pc5_sample_thumb.png",
-            imageSrc: "/motion-graphic/sdd_sd_pc5_sample.mp4",
-            popup: true,
-            description:
-              "PPTX converted to MP4 with synced narration (auto muted), audio enhanced in Audition, and edited in Premiere Pro.",
-          },
-          {
             title: "PowerPoint Animation – Showcase",
             thumbnail: "/motion-graphic/pptx_animation_thumbnail.png",
             imageSrc: "/motion-graphic/pptx_animation_edited.mp4",
